@@ -1,6 +1,4 @@
-# top-vscode-extensions
-
-## Most Popular VSCode Extensions Worldwide
+# Most Popular VSCode Extensions Worldwide
 
 A comprehensive and complete list of the most installed and used VSCode extensions, recommended by myself and others. Many of the videos and blogs I have found on the Internet for the most popular VSCode extensions tend to be very shallow and just regurgitations of one-another.
 
